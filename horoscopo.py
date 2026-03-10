@@ -41,4 +41,5 @@ elif ((diacuandonaciste >= 20 and diacuandonaciste <= 29) and mesdenacimientodel
     print(elnombredelwey, "eres Piscis 🐟. Eres soñador, sensible y muy imaginativo.")
 
 else:
-    print("BRO, ESA FECHA ESTA RARA O NO EXISTE.")
+    print("Bro, mano tu ta loco,este mes no existe.")
+
